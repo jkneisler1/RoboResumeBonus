@@ -15,6 +15,7 @@ import java.util.Scanner;
  *      Included the ability to re-enter personal information
  *      Included a year of graduation for the education section
  *      Duplicated code in the Skills class was put into a separate method
+ *      Created a Certifications section
  *
  */
 
